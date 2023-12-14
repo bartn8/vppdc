@@ -106,7 +106,7 @@ The list of dependencies can be found in the `./requirements.txt` file.
 You can also follow this script to create a virtual environment and install all the dependencies:
 
 ```bash
-$ conda create -n "vppdc" python=3.7
+$ conda create -n "vppdc" python
 $ conda activate vppdc
 $ python -m pip install -r requirements.txt
 ```
