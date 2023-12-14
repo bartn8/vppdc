@@ -1,0 +1,14 @@
+cmapy
+numba
+numpy
+opencv_contrib_python
+opencv_python
+opencv_python_headless
+opt_einsum
+Pillow
+scipy
+torch
+tqdm
+h5py
+matplotlib
+torchvision
