@@ -56,7 +56,7 @@ This paper proposes a new framework for depth comple-tion robust against domain-
 * Extensive experimental results with multiple datasets and networks demonstrate that our proposal vastly outperforms state-of-the-art concerning generalization capability.
 
 
-:fountain_pen: If you find this code useful in your research, please cite:
+:pushpin: If you find this code useful in your research, please cite:
 
 ```bibtex
 @inproceedings{Bartolomei_2024_3DV,
