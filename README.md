@@ -21,6 +21,8 @@ University of Bologna<sup>2</sup>
 
 **Note**: 🚧 Kindly note that this repository is currently in the development phase. We are actively working to add and refine features and documentation. We apologize for any inconvenience caused by incomplete or missing elements and appreciate your patience as we work towards completion.
 
+We would like to share with you our previous work [Active Pattern Without Pattern Projector](https://github.com/bartn8/vppstereo) from which we took inspiration for this work.
+
 ## :bookmark_tabs: Table of Contents
 
 - [:bookmark\_tabs: Table of Contents](#bookmark_tabs-table-of-contents)
@@ -328,5 +330,3 @@ We would like to extend our sincere appreciation to the authors of the following
 - We would like to thank the authors of [RAFT-Stereo](https://github.com/princeton-vl/RAFT-Stereo) for providing their code, which has been instrumental in our depth completion experiments.
 
 We deeply appreciate the authors of the competing research papers for provision of code and model weights, which greatly aided accurate comparisons.
-
-We would like to share with you our previous work [Active Pattern Without Pattern Projector](https://github.com/bartn8/vppstereo) from which we took inspiration for this work.
