@@ -83,8 +83,6 @@ To use these weights, please follow these steps:
 1. Install [GDown](https://github.com/wkentaro/gdown) python package: `pip install gdown`
 2. Download all weights from our drive: `gdown --folder https://drive.google.com/drive/folders/1AZRHzCn7K7HiPQZocfxWplYHo3WhI8lm?usp=sharing`
 
-**Our drive will be available soon**
-
 ## :memo: Code
 
 The **Test** section provides scripts to evaluate depth estimation models on datasets like **VOID**, **NYU**, **DDAD** and **KITTIDC**. It helps assess the accuracy of the models and saves predicted depth maps.
@@ -318,7 +316,7 @@ In this section, we present illustrative examples that demonstrate the effective
   <img src="./images/outdoor2indoor.png" width="800" />
 </p>
 
-**From outdoor to indoor.** we consider the case complementary to the previous one – i.e., with models pre-trained on SceneFlow and trained outdoor then tested indoor. NLSPN, CompletionFormer and SpAgNet can predict a depth map that is reasonable to some extent. Our approach instead predicts very accurate results on regions covered by depth hints, yet failing where these are absent.
+**From outdoor to indoor.** We consider the case complementary to the previous one – i.e., with models pre-trained on SceneFlow and trained outdoor then tested indoor. NLSPN, CompletionFormer and SpAgNet can predict a depth map that is reasonable to some extent. Our approach instead predicts very accurate results on regions covered by depth hints, yet failing where these are absent.
 
 ## :envelope: Contacts
 
