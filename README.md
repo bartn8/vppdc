@@ -59,13 +59,12 @@ This paper proposes a new framework for depth comple-tion robust against domain-
 If you find this code useful in your research, please cite:
 
 ```bibtex
-@misc{bartolomei2023revisiting,
+@inproceedings{bartolomei2023revisiting,
       title={Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization}, 
       author={Luca Bartolomei and Matteo Poggi and Andrea Conti and Fabio Tosi and Stefano Mattoccia},
-      year={2023},
-      eprint={2312.09254},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      year={2024},
+      booktitle={2024 International Conference on 3D Vision (3DV)},
+      organization={IEEE}
 }
 ```
 
