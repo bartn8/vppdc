@@ -6,7 +6,7 @@
 
 🚨 This repository contains download links to our code, and trained deep stereo models of our work  "**Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization**",  [3DV 2024](https://3dvconf.github.io/2024/)
  
-by [Luca Bartolomei](https://bartn8.github.io/)<sup>1,2</sup>, [Matteo Poggi](https://mattpoggi.github.io/)<sup>1,2</sup>, [Andrea Conti](https://andreaconti.github.io/)<sup>2</sup>, [Fabio Tosi](https://fabiotosi92.github.io/)<sup>2</sup>, and [Stefano Mattoccia](https://github.com/stefano-mattoccia)<sup>1,2</sup>
+by [Luca Bartolomei](https://bartn8.github.io/)<sup>1,2</sup>, [Matteo Poggi](https://mattpoggi.github.io/)<sup>1,2</sup>, [Andrea Conti](https://andreaconti.github.io/)<sup>2</sup>, [Fabio Tosi](https://fabiotosi92.github.io/)<sup>2</sup>, and [Stefano Mattoccia](https://stefanomattoccia.github.io/)<sup>1,2</sup>
 
 Advanced Research Center on Electronic System (ARCES)<sup>1</sup>
 University of Bologna<sup>2</sup>
